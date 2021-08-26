@@ -1,2 +1,2 @@
 # MonteCarloDNASimulation
-A Monte Carlo simulation of DNA inside an enclosed region
+A Monte Carlo simulation of a polymer(DNA) inside an enclosed sphere.
